@@ -4,7 +4,7 @@
 	  This .Build.props should be imported by all dependent projects in this solution, as it holds the directory structure of the directory. 
 	  No action is actually necessary, as MSBuild ensures that this file is included for all .proj files in subfolders of the root.
 	-->
-	<NoWarn>IDE1006,IDE0290</NoWarn>
+	<NoWarn>8500,IDE1006,IDE0290, IDE0042</NoWarn>
 	<Authors>@ejjonatah</Authors>
 	  
 	<BaseOutputPath>..\..\..\build</BaseOutputPath>
