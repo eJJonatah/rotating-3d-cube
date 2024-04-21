@@ -5,8 +5,8 @@ A 3d rotating cube  in a 2d flat surface (console) using vector math and 3d rend
 <p align="center">
 	<a href="https://lh3.googleusercontent.com/drive-viewer/AKGpihZTrl_0jkSHhoBQkY56HgXMy1ckPpGdYVeRf-PT9SoWsYYOwvbw5obE9Y4C4xa8EQIRDMfDEprPN3sXOErU2AnXR_Dg9EDtqO4=s2560?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/drive-viewer/AKGpihZTrl_0jkSHhoBQkY56HgXMy1ckPpGdYVeRf-PT9SoWsYYOwvbw5obE9Y4C4xa8EQIRDMfDEprPN3sXOErU2AnXR_Dg9EDtqO4=s2560"
 		style="
-			max-height: 500px;
-			max-width:  500px;
+			max-height: 250;
+			max-width:  250px;
 		"
 	/>
 	</a>
