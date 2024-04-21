@@ -1,5 +1,4 @@
 ﻿//#define STROKE
-const int Renderlag_ms = 15;
 
 Span<Triangle> triangles = [
     new (
@@ -56,7 +55,7 @@ while (true)
     foreach (ref var triangle in triangles)
         rotate(ref triangle, (radsX, radsY, radsZ), center);
 
-    Thread.Sleep(Renderlag_ms);
+    //Thread.Sleep(Renderlag_ms);
 }
 
 static void rotate(ref Triangle tri, (float X, float Y, float Z) rads, Vector3 center)
